@@ -1,5 +1,5 @@
 <?php 
 
-	phpinfo();
+	echo date();
 	echo "ssss";
 ?>
